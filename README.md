@@ -1,1 +1,4 @@
-To be filled 😊
+Programming Languages:
+- C#
+- Java
+- Python
